@@ -1,4 +1,4 @@
-package;
+package; // chicken tenders are the fucking best - sado
 import flixel.system.debug.log.LogStyle;
 using StringTools;
 import JudgementManager;
@@ -335,39 +335,18 @@ class EngineData {
   };
   public static var weeksUnlocked:Array<Bool>=[true,true,true,true,true,true];
   public static var mustUnlockWeeks:Bool=false; // TODO: make this work
+  // i am fucking lonely - sado
   public static var weekData:Array<WeekData> = [
     new WeekData("Funkin' Virgin",0,'',[
       new SongData("Tutorial","gf",0),
     ]),
-    new WeekData("DADDY DEAREST",1,'dad',[
-      "Bopeebo",
-      "Fresh",
-      "Dadbattle"
-    ]),
-    new WeekData("Spooky Month",2,'spooky',[
-      "Spookeez",
-      "South",
-      new SongData("Monster","monster",2)
-    ]),
-    new WeekData("Pico",3,'pico',[
-      "Pico",
-      new SongData("Philly Nice","pico",3,"philly-nice"),
-      "Blammed"
-    ]),
-    new WeekData("MOMMY MUST MURDER",4,'mom',[
-      new SongData("Satin Panties","mom",4,"satin-panties"),
-      "High",
-      "MILF"
-    ]),
-    new WeekData("RED SNOW",5,'parents-christmas',[
-      "Cocoa",
-      "Eggnog",
-      new SongData("Winter Horrorland","monster",5,"winter-horrorland"),
-    ]),
-    new WeekData("hating simulator ft. moawling",6,'senpai',[
-      "Senpai",
-      "Roses",
-      new SongData("Thorns","spirit",6),
+    new WeekData("BAMBI.EXE MORE LIKE BANGER.EXE - Pibby Jones",1,'bambi.exe',[
+      "Scaryphobia",
+      "Frightphobia",
+      "SUPERKILLERPHOBIA",
+      "Meaningless Existence",
+      "Poisoned Corn",
+      "Channel Removed For Spam"
     ]),
   ];
 
